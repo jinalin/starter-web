@@ -2,8 +2,10 @@
 
 This repository is for showing how Git and GitHub work
 
-## INtroduction
+## Introduction
 
+## Deployment
+Show difference 
 ## Purpose
 
 Sample website with plenty of files for demos

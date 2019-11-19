@@ -16,3 +16,5 @@ Sample website with plenty of files for demos
 ## Notes
 More for testing
 More for testing
+
+Copyright added

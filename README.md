@@ -1,5 +1,7 @@
 # Starter Web Repo
 # Starter Web Repo
+# Starter Web Repo modify commit
+# Starter Web Repo modify commit amend
 
 This repository is for showing how Git and GitHub work
 

@@ -8,7 +8,7 @@ This repository is for showing how Git and GitHub work
 ## Introduction
 
 ## Deployment
-Show difference 
+Show difference between local and remote
 ## Purpose
 
 Sample website with plenty of files for demos
